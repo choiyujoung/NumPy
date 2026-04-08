@@ -1,4 +1,4 @@
-📚 NumPy 기초 학습 (NumPy Fundamentals)
+# 📚 NumPy 기초 학습 (NumPy Fundamentals)
 데이터 분석과 머신러닝의 기초가 되는 파이썬 라이브러리인 NumPy의 핵심 기능을 정리한 저장소입니다. 배열의 생성부터 다차원 연산, 슬라이싱까지 필수적인 문법을 포함하고 있습니다.
 
 🗂 목차
